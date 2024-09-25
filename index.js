@@ -13,7 +13,9 @@ export function isIphoneX() {
             checkDemension(896) ||
             checkDemension(926) ||
             checkDemension(852) ||
-            checkDemension(932))
+            checkDemension(874) ||
+            checkDemension(932) ||
+            checkDemension(956))
     )
 }
 
